@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>단어 시험</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    #main-content {
+      padding: 20px;
+    }
+    .correct {
+      color: blue;
+    }
+    .incorrect {
+      color: red;
+    }
+    .incomplete {
+      color: black;
+    }
+    .input-display {
+      font-size: 16px;
+      display: inline;
+      margin-left: 10px;
+    }
+    .question-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .question-row label {
+      margin-right: 10px;
+    }
+    .clear-button {
+      margin-top: 20px;
+    }
+    h1 {
+      margin-top: 0;
+    }
+
+    /* 다이얼로그 스타일 */
+    #english-dialog {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 60%;
+      height: 60%;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      display: none;
+      z-index: 1000;
+      overflow-y: auto;
+      font-size: 24px;
+      line-height: 1.8;
+    }
+
+    /* 배경 오버레이 */
+    #overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 999;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="main-content">
+    <h1>단어 시험</h1>
+    <form id="quizForm" autocomplete="off"></form>
+    <button class="clear-button" onclick="clearInputs()">입력 초기화</button>
+    <button class="clear-button" onclick="toggleEnglishDialog()">영어 원문 보기</button>
+  </div>
+
+  <!-- 다이얼로그 -->
+  <div id="overlay" onclick="toggleEnglishDialog()"></div>
+  <div id="english-dialog"></div>
+
+  <script>
+    let englishText = ""; // 영어 원문 저장 변수
+    const dialog = document.getElementById('english-dialog');
+    const overlay = document.getElementById('overlay');
+
+    // URL에서 GET 파라미터 추출
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
+    async function loadData() {
+      const fileName = getQueryParam('file') || 'data.json'; // URL에서 'file' 파라미터 가져오기 (기본값: data.json)
+
+      try {
+        const response = await fetch(fileName);
+        if (!response.ok) throw new Error(`JSON 파일을 가져오는 데 실패했습니다: ${fileName}`);
+
+        const data = await response.json();
+        englishText = data.englishText + '\n\n\n\n' + data.koreaText; // 원문 텍스트 저장
+        createQuiz(data.words); // 단어 데이터로 퀴즈 생성
+      } catch (error) {
+        console.error(error);
+        alert('JSON 파일을 불러오는 중 오류가 발생했습니다.');
+      }
+    }
+
+    function createQuiz(words) {
+      const form = document.getElementById('quizForm');
+
+      words.forEach((wordObj, index) => {
+        
+        const word = wordObj.word; // JSON 구조에서 단어
+        const meaning = wordObj.meaning; // JSON 구조에서 의미
+
+        const questionRow = document.createElement('div');
+        questionRow.className = 'question-row';
+
+        // 고유 ID를 추가하여 충돌 방지
+        const label = document.createElement('label');
+        label.innerText = `${meaning} : `;
+
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.name = `question${index}${word}`;
+        input.oninput = () => checkAlphabetOrder(input, word.toLowerCase());
+
+        const displayDiv = document.createElement('div');
+        displayDiv.id = `display${index}${word}`;
+        displayDiv.className = 'input-display';
+
+        questionRow.appendChild(label);
+        questionRow.appendChild(input);
+        questionRow.appendChild(displayDiv);
+
+        form.appendChild(questionRow);
+      });
+    }
+
+    function checkAlphabetOrder(inputElement, correctAnswer) {
+      const userAnswer = inputElement.value.trim().toLowerCase();
+      const displayId = `display${inputElement.name.replace('question', '')}`;
+      const displayElement = document.getElementById(displayId);
+
+      let styledText = '';
+
+      for (let i = 0; i < correctAnswer.length; i++) {
+        if (i < userAnswer.length) {
+          if (userAnswer[i] === correctAnswer[i]) {
+            styledText += `<span class="correct">${correctAnswer[i]}</span>`;
+          } else {
+            styledText += `<span class="incorrect">${userAnswer[i]}</span>`;
+          }
+        } else {
+          styledText += `<span class="incomplete">_</span>`;
+        }
+      }
+
+      displayElement.innerHTML = styledText;
+    }
+
+    function clearInputs() {
+      const inputs = document.querySelectorAll('#quizForm input');
+      const displays = document.querySelectorAll('.input-display');
+
+      inputs.forEach(input => (input.value = ''));
+      displays.forEach(display => (display.innerHTML = ''));
+    }
+
+    // 다이얼로그 열기/닫기
+    function toggleEnglishDialog() {
+      if (dialog.style.display === 'none' || dialog.style.display === '') {
+        dialog.innerHTML = `<h2>영어 원문</h2>${englishText
+          .split(/(?<=\.)\s+/)
+          .map(sentence => `<p>${sentence.trim()}</p>`)
+          .join('')}`;
+        dialog.style.display = 'block';
+        overlay.style.display = 'block';
+      } else {
+        dialog.style.display = 'none';
+        overlay.style.display = 'none';
+      }
+    }
+
+    // ESC 키로 다이얼로그 닫기
+    document.addEventListener('keydown', (event) => {
+    const activeElement = document.activeElement.tagName;
+    if (activeElement === "INPUT" && event.key === "`") {
+        event.preventDefault(); // 특정 키 입력 방지
+    }
+
+    if (event.key === '`') {
+        toggleEnglishDialog(); // 다이얼로그 열기/닫기
+    }
+    
+    if (event.key === 'Escape') {
+        dialog.style.display = 'none';
+        overlay.style.display = 'none';
+    }
+    });
+  
+    // JSON 데이터 로드
+    loadData();
+  </script>
+</body>
+</html>
