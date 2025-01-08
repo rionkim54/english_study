@@ -1,0 +1,390 @@
+{
+    "englishText": "You may have seen headlines in the news about some of the things machines powered by artificial intelligence can do. However, if you were to consider all the tasks that AI-powered machines could actually perform, it would be quite mind-blowing! One of the key features of artificial intelligence is that it enables machines to learn new things, rather than requiring programming specific to new tasks. Therefore, the core difference between computers of the future and those of the past is that future computers will be able to learn and self-improve. In the near future, smart virtual assistants will know more about you than your closest friends and family members do. Can you imagine how that might change our lives? These kinds of changes are exactly why it is so important to recognize the implications that new technologies will have for our world.",
+    "koreaText": "당신은 아마도 인공지능으로 구동되는 기계가 할 수 있는 일들에 대한 뉴스를 본 적이 있을 것입니다. 하지만 AI 기반 기계가 실제로 수행할 수 있는 모든 작업을 고려한다면 꽤 놀라울 것입니다! 인공지능의 주요 특징 중 하나는 기계가 새로운 작업에 특정한 프로그래밍 없이도 새로운 것을 학습할 수 있도록 한다는 것입니다. 따라서 미래의 컴퓨터와 과거의 컴퓨터 간의 핵심 차이점은 미래의 컴퓨터가 학습하고 스스로 개선할 수 있다는 것입니다. 가까운 미래에 스마트 가상 비서가 가장 가까운 친구와 가족보다 당신에 대해 더 많이 알게 될 것입니다. 그것이 우리의 삶을 어떻게 바꿀지 상상할 수 있습니까? 이러한 변화들이 바로 새로운 기술이 우리 세계에 미칠 영향을 인식하는 것이 중요한 이유입니다.",
+    "words": [
+        {
+            "word": "You",
+            "meaning": "당신은"
+        },
+        {
+            "word": "may",
+            "meaning": "아마도"
+        },
+        {
+            "word": "have",
+            "meaning": "가지다"
+        },
+        {
+            "word": "seen",
+            "meaning": "본 적이 있다"
+        },
+        {
+            "word": "headlines",
+            "meaning": "헤드라인"
+        },
+        {
+            "word": "in",
+            "meaning": "~안에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "news",
+            "meaning": "뉴스"
+        },
+        {
+            "word": "about",
+            "meaning": "~에 대해"
+        },
+        {
+            "word": "some",
+            "meaning": "몇몇"
+        },
+        {
+            "word": "of",
+            "meaning": "~의"
+        },
+        {
+            "word": "things",
+            "meaning": "것들"
+        },
+        {
+            "word": "machines",
+            "meaning": "기계들"
+        },
+        {
+            "word": "powered",
+            "meaning": "구동되는"
+        },
+        {
+            "word": "by",
+            "meaning": "~에 의해"
+        },
+        {
+            "word": "artificial",
+            "meaning": "인공의"
+        },
+        {
+            "word": "intelligence",
+            "meaning": "지능"
+        },
+        {
+            "word": "can",
+            "meaning": "할 수 있다"
+        },
+        {
+            "word": "do.",
+            "meaning": "한다."
+        },
+        {
+            "word": "However,",
+            "meaning": "하지만,"
+        },
+        {
+            "word": "if",
+            "meaning": "만약"
+        },
+        {
+            "word": "you",
+            "meaning": "당신이"
+        },
+        {
+            "word": "were",
+            "meaning": "~이었다면"
+        },
+        {
+            "word": "to",
+            "meaning": "~하기 위해"
+        },
+        {
+            "word": "consider",
+            "meaning": "고려하다"
+        },
+        {
+            "word": "all",
+            "meaning": "모든"
+        },
+        {
+            "word": "tasks",
+            "meaning": "작업들"
+        },
+        {
+            "word": "that",
+            "meaning": "그것"
+        },
+        {
+            "word": "AI-powered",
+            "meaning": "AI 기반"
+        },
+        {
+            "word": "could",
+            "meaning": "할 수 있었다"
+        },
+        {
+            "word": "actually",
+            "meaning": "실제로"
+        },
+        {
+            "word": "perform,",
+            "meaning": "수행하다,"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "would",
+            "meaning": "~할 것이다"
+        },
+        {
+            "word": "be",
+            "meaning": "~이 되다"
+        },
+        {
+            "word": "quite",
+            "meaning": "꽤"
+        },
+        {
+            "word": "mind-blowing!",
+            "meaning": "놀라운!"
+        },
+        {
+            "word": "One",
+            "meaning": "하나"
+        },
+        {
+            "word": "key",
+            "meaning": "주요"
+        },
+        {
+            "word": "features",
+            "meaning": "특징들"
+        },
+        {
+            "word": "is",
+            "meaning": "~이다"
+        },
+        {
+            "word": "enables",
+            "meaning": "가능하게 하다"
+        },
+        {
+            "word": "learn",
+            "meaning": "학습하다"
+        },
+        {
+            "word": "new",
+            "meaning": "새로운"
+        },
+        {
+            "word": "things,",
+            "meaning": "것들,"
+        },
+        {
+            "word": "rather",
+            "meaning": "오히려"
+        },
+        {
+            "word": "than",
+            "meaning": "~보다"
+        },
+        {
+            "word": "requiring",
+            "meaning": "요구하는"
+        },
+        {
+            "word": "programming",
+            "meaning": "프로그래밍"
+        },
+        {
+            "word": "specific",
+            "meaning": "특정한"
+        },
+        {
+            "word": "tasks.",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "Therefore,",
+            "meaning": "따라서,"
+        },
+        {
+            "word": "core",
+            "meaning": "핵심"
+        },
+        {
+            "word": "difference",
+            "meaning": "차이점"
+        },
+        {
+            "word": "between",
+            "meaning": "~사이"
+        },
+        {
+            "word": "computers",
+            "meaning": "컴퓨터들"
+        },
+        {
+            "word": "future",
+            "meaning": "미래"
+        },
+        {
+            "word": "and",
+            "meaning": "그리고"
+        },
+        {
+            "word": "those",
+            "meaning": "그것들"
+        },
+        {
+            "word": "past",
+            "meaning": "과거"
+        },
+        {
+            "word": "will",
+            "meaning": "~할 것이다"
+        },
+        {
+            "word": "able",
+            "meaning": "가능한"
+        },
+        {
+            "word": "self-improve.",
+            "meaning": "스스로 개선하다."
+        },
+        {
+            "word": "In",
+            "meaning": "안에"
+        },
+        {
+            "word": "near",
+            "meaning": "가까운"
+        },
+        {
+            "word": "future,",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "smart",
+            "meaning": "스마트"
+        },
+        {
+            "word": "virtual",
+            "meaning": "가상"
+        },
+        {
+            "word": "assistants",
+            "meaning": "비서들"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "more",
+            "meaning": "더"
+        },
+        {
+            "word": "your",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "closest",
+            "meaning": "가장 가까운"
+        },
+        {
+            "word": "friends",
+            "meaning": "친구들"
+        },
+        {
+            "word": "family",
+            "meaning": "가족"
+        },
+        {
+            "word": "members",
+            "meaning": "구성원들"
+        },
+        {
+            "word": "Can",
+            "meaning": "할 수 있습니까"
+        },
+        {
+            "word": "imagine",
+            "meaning": "상상하다"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게"
+        },
+        {
+            "word": "might",
+            "meaning": "할 수도 있다"
+        },
+        {
+            "word": "change",
+            "meaning": "변화시키다"
+        },
+        {
+            "word": "our",
+            "meaning": "우리의"
+        },
+        {
+            "word": "lives?",
+            "meaning": "삶들?"
+        },
+        {
+            "word": "These",
+            "meaning": "이러한"
+        },
+        {
+            "word": "kinds",
+            "meaning": "종류들"
+        },
+        {
+            "word": "changes",
+            "meaning": "변화들"
+        },
+        {
+            "word": "are",
+            "meaning": "~이다"
+        },
+        {
+            "word": "exactly",
+            "meaning": "정확히"
+        },
+        {
+            "word": "why",
+            "meaning": "왜"
+        },
+        {
+            "word": "so",
+            "meaning": "매우"
+        },
+        {
+            "word": "important",
+            "meaning": "중요한"
+        },
+        {
+            "word": "recognize",
+            "meaning": "인식하다"
+        },
+        {
+            "word": "implications",
+            "meaning": "영향들"
+        },
+        {
+            "word": "technologies",
+            "meaning": "기술들"
+        },
+        {
+            "word": "for",
+            "meaning": "~을 위해"
+        },
+        {
+            "word": "world.",
+            "meaning": "세계."
+        }
+    ]
+}
