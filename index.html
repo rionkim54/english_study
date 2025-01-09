@@ -91,6 +91,8 @@
     const dialog = document.getElementById('english-dialog');
     const overlay = document.getElementById('overlay');
 
+    let gwords = "";
+
     // URL에서 GET 파라미터 추출
     function getQueryParam(param) {
       const urlParams = new URLSearchParams(window.location.search);
@@ -105,7 +107,7 @@
         if (!response.ok) throw new Error(`JSON 파일을 가져오는 데 실패했습니다: ${fileName}`);
 
         const data = await response.json();
-        englishText = data.englishText + '\n\n\n\n' + data.koreaText; // 원문 텍스트 저장
+        englishText = data.englishText + '\n\n' + data.koreaText; // 원문 텍스트 저장
         createQuiz(data.words); // 단어 데이터로 퀴즈 생성
       } catch (error) {
         console.error(error);
@@ -114,7 +116,10 @@
     }
 
     function createQuiz(words) {
+
       const form = document.getElementById('quizForm');
+
+      gwords = words;
 
       words.forEach((wordObj, index) => {
         
@@ -190,9 +195,58 @@
       }
     }
 
+  // 다이얼로그 생성 함수
+  function showDialog() {
+    // 기존 다이얼로그가 있으면 제거
+    if (document.getElementById("dialog")) {
+      document.getElementById("dialog").remove();
+    }
+
+    // 다이얼로그 생성
+    const dialog = document.createElement("div");
+    dialog.id = "dialog";
+    dialog.style.position = "fixed";
+    dialog.style.top = "10%";
+    dialog.style.left = "50%";
+    dialog.style.transform = "translateX(-50%)";
+    dialog.style.width = "80%";
+    dialog.style.maxHeight = "70%";
+    dialog.style.overflowY = "auto";
+    dialog.style.padding = "20px";
+    dialog.style.backgroundColor = "#fff";
+    dialog.style.boxShadow = "0 4px 8px rgba(0,0,0,0.2)";
+    dialog.style.borderRadius = "10px";
+    dialog.style.zIndex = "1000";
+
+    // 닫기 버튼
+    const closeButton = document.createElement("button");
+    closeButton.textContent = "닫기";
+    closeButton.style.marginBottom = "10px";
+    closeButton.onclick = () => dialog.remove();
+    dialog.appendChild(closeButton);
+
+    // 단어장 내용 추가
+    gwords.forEach((item, index) => {
+      const wordEntry = document.createElement("p");
+      wordEntry.textContent = `${index + 1}. 단어: ${item.word}, 뜻: ${item.meaning}`;
+      dialog.appendChild(wordEntry);
+    });
+
+    // 다이얼로그 추가
+    document.body.appendChild(dialog);
+  }
+
     // ESC 키로 다이얼로그 닫기
     document.addEventListener('keydown', (event) => {
     const activeElement = document.activeElement.tagName;
+
+    if (activeElement === 'INPUT' && event.key === '1') {
+      event.preventDefault();
+
+      showDialog();
+      
+    }
+
     if (activeElement === "INPUT" && event.key === "`") {
         event.preventDefault(); // 특정 키 입력 방지
     }
@@ -204,6 +258,11 @@
     if (event.key === 'Escape') {
         dialog.style.display = 'none';
         overlay.style.display = 'none';
+
+        const dialog = document.getElementById("dialog");
+        if (dialog) {
+          dialog.remove();
+        }
     }
     });
   

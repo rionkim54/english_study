@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>단어 시험</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    #main-content {
+      padding: 20px;
+    }
+    #word-display {
+      font-size: 20px;
+      font-weight: bold;
+      padding: 10px;
+      background-color: #f4f4f4;
+      border-bottom: 1px solid #ccc;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .correct {
+      color: blue;
+    }
+    .incorrect {
+      color: red;
+    }
+    .incomplete {
+      color: black;
+    }
+    .input-display {
+      font-size: 16px;
+      display: inline;
+      margin-left: 10px;
+    }
+    .question-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .question-row label {
+      margin-right: 10px;
+    }
+    .clear-button {
+      margin-top: 20px;
+    }
+    h1 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="word-display">단어: <span id="current-word">없음</span> | 알파벳: <span id="current-letters">없음</span></div>
+  <div id="main-content">
+    <h1>단어 시험</h1>
+    <button class="clear-button" onclick="clearInputs()">입력 초기화</button>
+    <form id="quizForm" autocomplete="off"></form>
+  </div>
+
+  <script>
+    function createQuiz(words) {
+      const form = document.getElementById('quizForm');
+
+      words.forEach((wordObj, index) => {
+        const word = wordObj.word; // JSON 구조에서 단어
+        const meaning = wordObj.meaning; // JSON 구조에서 의미
+
+        const questionRow = document.createElement('div');
+        questionRow.className = 'question-row';
+
+        const label = document.createElement('label');
+        label.innerText = `${meaning} : `;
+
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.name = `question${index}${word}`;
+        input.oninput = () => checkAlphabetOrder(input, word.toLowerCase());
+
+        const displayDiv = document.createElement('div');
+        displayDiv.id = `display${index}${word}`;
+        displayDiv.className = 'input-display';
+
+        questionRow.appendChild(label);
+        questionRow.appendChild(input);
+        questionRow.appendChild(displayDiv);
+
+        form.appendChild(questionRow);
+      });
+    }
+
+    document.addEventListener('keydown', (event) => {
+      const activeElement = document.activeElement;
+      const activeTag = activeElement.tagName;
+
+      if (activeTag === 'INPUT' && event.key === '1') {
+        event.preventDefault();
+        const cursorPosition = activeElement.selectionStart;
+        const word = activeElement.value;
+
+        // Find the word at the cursor position
+        const start = word.lastIndexOf(' ', cursorPosition - 1) + 1;
+        const end = word.indexOf(' ', cursorPosition);
+        const targetWord = word.substring(start, end === -1 ? word.length : end);
+
+        // Extract two letters at the cursor position
+        const relativePosition = cursorPosition - start;
+        const displayedLetters = targetWord.substring(
+          relativePosition,
+          relativePosition + 2
+        );
+
+        // Update the word display area
+        document.getElementById('current-word').textContent = targetWord || '없음';
+        document.getElementById('current-letters').textContent = displayedLetters || '없음';
+      }
+    });
+
+    function clearInputs() {
+      const inputs = document.querySelectorAll('#quizForm input');
+      const displays = document.querySelectorAll('.input-display');
+
+      inputs.forEach(input => (input.value = ''));
+      displays.forEach(display => (display.innerHTML = ''));
+      document.getElementById('current-word').textContent = '없음';
+      document.getElementById('current-letters').textContent = '없음';
+    }
+
+    // URL에서 GET 파라미터 추출
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+      
+
+    async function loadData() {
+      const fileName = getQueryParam('file') || 'data.json';
+
+      try {
+        const response = await fetch(fileName);
+        if (!response.ok) throw new Error(`JSON 파일을 가져오는 데 실패했습니다: ${fileName}`);
+
+        const data = await response.json();
+        createQuiz(data.words); // 단어 데이터로 퀴즈 생성
+      } catch (error) {
+        console.error(error);
+        alert('JSON 파일을 불러오는 중 오류가 발생했습니다.');
+      }
+    }
+
+    // JSON 데이터 로드
+    loadData();
+  </script>
+</body>
+</html>
