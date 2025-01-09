@@ -1,0 +1,307 @@
+{
+    "englishText": "On one beautiful spring day, I was fully enjoying my day off. I arrived at the nail salon, and muted my cellphone so that I would be disconnected for the hour and feel calm and peaceful. I was so comfortable while I got a manicure. As I left the place, I checked my cellphone and saw four missed calls from a strange number. I knew immediately that something bad was coming, and I called back. A young woman answered and said that my father had fallen over a stone and was injured, now seated on a bench. I was really concerned since he had just recovered from his knee surgery. I rushed getting into my car to see him.",
+    "koreaText": "어느 아름다운 봄날, 나는 온전히 쉬는 날을 즐기고 있었다. 나는 네일 살롱에 도착해 한 시간 동안 차단되고 평온함을 느끼기 위해 휴대폰을 음소거했다. 나는 매니큐어를 받는 동안 매우 편안했다. 그곳을 떠날 때, 나는 휴대폰을 확인했고 낯선 번호로부터 네 통의 부재중 전화를 보았다. 나는 즉시 나쁜 일이 생겼음을 직감하고 전화를 걸었다. 한 젊은 여성이 전화를 받아 내 아버지가 돌에 넘어져 다쳤고, 이제 벤치에 앉아 있다고 말했다. 아버지가 무릎 수술에서 막 회복한 터라 나는 정말로 걱정이 되었다. 나는 아버지를 보기 위해 차에 서둘러 탔다.",
+    "words": [
+      {
+        "word": "On",
+        "meaning": "~에"
+      },
+      {
+        "word": "one",
+        "meaning": "하나의"
+      },
+      {
+        "word": "beautiful",
+        "meaning": "아름다운"
+      },
+      {
+        "word": "spring",
+        "meaning": "봄"
+      },
+      {
+        "word": "day",
+        "meaning": "날"
+      },
+      {
+        "word": "I",
+        "meaning": "나"
+      },
+      {
+        "word": "was",
+        "meaning": "~였다"
+      },
+      {
+        "word": "fully",
+        "meaning": "온전히"
+      },
+      {
+        "word": "enjoying",
+        "meaning": "즐기고 있는"
+      },
+      {
+        "word": "my",
+        "meaning": "나의"
+      },
+      {
+        "word": "off",
+        "meaning": "쉬는"
+      },
+      {
+        "word": "arrived",
+        "meaning": "도착했다"
+      },
+      {
+        "word": "at",
+        "meaning": "~에"
+      },
+      {
+        "word": "the",
+        "meaning": "그"
+      },
+      {
+        "word": "nail",
+        "meaning": "네일"
+      },
+      {
+        "word": "salon",
+        "meaning": "살롱"
+      },
+      {
+        "word": "and",
+        "meaning": "그리고"
+      },
+      {
+        "word": "muted",
+        "meaning": "음소거했다"
+      },
+      {
+        "word": "cellphone",
+        "meaning": "휴대폰"
+      },
+      {
+        "word": "so",
+        "meaning": "그래서"
+      },
+      {
+        "word": "that",
+        "meaning": "그것"
+      },
+      {
+        "word": "would",
+        "meaning": "~일 것이다"
+      },
+      {
+        "word": "be",
+        "meaning": "되다"
+      },
+      {
+        "word": "disconnected",
+        "meaning": "차단된"
+      },
+      {
+        "word": "for",
+        "meaning": "~동안"
+      },
+      {
+        "word": "hour",
+        "meaning": "한 시간"
+      },
+      {
+        "word": "feel",
+        "meaning": "느끼다"
+      },
+      {
+        "word": "calm",
+        "meaning": "평온한"
+      },
+      {
+        "word": "peaceful",
+        "meaning": "평화로운"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "편안한"
+      },
+      {
+        "word": "while",
+        "meaning": "~동안"
+      },
+      {
+        "word": "got",
+        "meaning": "받았다"
+      },
+      {
+        "word": "manicure",
+        "meaning": "매니큐어"
+      },
+      {
+        "word": "left",
+        "meaning": "떠났다"
+      },
+      {
+        "word": "place",
+        "meaning": "장소"
+      },
+      {
+        "word": "checked",
+        "meaning": "확인했다"
+      },
+      {
+        "word": "saw",
+        "meaning": "보았다"
+      },
+      {
+        "word": "four",
+        "meaning": "네"
+      },
+      {
+        "word": "missed",
+        "meaning": "부재중"
+      },
+      {
+        "word": "calls",
+        "meaning": "전화"
+      },
+      {
+        "word": "from",
+        "meaning": "~으로부터"
+      },
+      {
+        "word": "strange",
+        "meaning": "낯선"
+      },
+      {
+        "word": "number",
+        "meaning": "번호"
+      },
+      {
+        "word": "knew",
+        "meaning": "알았다"
+      },
+      {
+        "word": "immediately",
+        "meaning": "즉시"
+      },
+      {
+        "word": "something",
+        "meaning": "무언가"
+      },
+      {
+        "word": "bad",
+        "meaning": "나쁜"
+      },
+      {
+        "word": "coming",
+        "meaning": "다가오는"
+      },
+      {
+        "word": "called",
+        "meaning": "전화를 걸었다"
+      },
+      {
+        "word": "back",
+        "meaning": "다시"
+      },
+      {
+        "word": "young",
+        "meaning": "젊은"
+      },
+      {
+        "word": "woman",
+        "meaning": "여성"
+      },
+      {
+        "word": "answered",
+        "meaning": "대답했다"
+      },
+      {
+        "word": "said",
+        "meaning": "말했다"
+      },
+      {
+        "word": "father",
+        "meaning": "아버지"
+      },
+      {
+        "word": "had",
+        "meaning": "~했다"
+      },
+      {
+        "word": "fallen",
+        "meaning": "넘어졌다"
+      },
+      {
+        "word": "over",
+        "meaning": "~위에"
+      },
+      {
+        "word": "stone",
+        "meaning": "돌"
+      },
+      {
+        "word": "injured",
+        "meaning": "다쳤다"
+      },
+      {
+        "word": "now",
+        "meaning": "지금"
+      },
+      {
+        "word": "seated",
+        "meaning": "앉아 있다"
+      },
+      {
+        "word": "bench",
+        "meaning": "벤치"
+      },
+      {
+        "word": "really",
+        "meaning": "정말로"
+      },
+      {
+        "word": "concerned",
+        "meaning": "걱정하는"
+      },
+      {
+        "word": "since",
+        "meaning": "~이래로"
+      },
+      {
+        "word": "just",
+        "meaning": "막"
+      },
+      {
+        "word": "recovered",
+        "meaning": "회복했다"
+      },
+      {
+        "word": "knee",
+        "meaning": "무릎"
+      },
+      {
+        "word": "surgery",
+        "meaning": "수술"
+      },
+      {
+        "word": "rushed",
+        "meaning": "서둘렀다"
+      },
+      {
+        "word": "getting",
+        "meaning": "타다"
+      },
+      {
+        "word": "car",
+        "meaning": "차"
+      },
+      {
+        "word": "see",
+        "meaning": "보다"
+      },
+      {
+        "word": "him",
+        "meaning": "그를"
+      }
+    ]
+  }
+  
