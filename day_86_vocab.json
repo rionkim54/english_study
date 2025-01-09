@@ -11,24 +11,64 @@
             "meaning": "설립된"
         },
         {
+            "word": "on behalf of",
+            "meaning": "~을 대신해서"
+        },
+        {
+            "word": "in one's stead",
+            "meaning": "~을 대신해서"
+        },
+        {
             "word": "donation",
             "meaning": "기부"
         },
         {
             "word": "donor",
-            "meaning": "기부자"
+            "meaning": "기부자, 기증자"
         },
         {
             "word": "in need",
-            "meaning": "도움이 필요한"
+            "meaning": "도움이 필요한, 궁핍한"
         },
         {
             "word": "needy",
             "meaning": "빈곤한, (경제적으로) 어려운"
         },
         {
+            "word": "impoverished",
+            "meaning": "빈곤한, 빈약한"
+        },
+        {
+            "word": "indigent",
+            "meaning": "빈곤한, 빈약한"
+        },
+        {
+            "word": "penniless",
+            "meaning": "빈곤한, 빈약한"
+        },
+        {
+            "word": "horizon",
+            "meaning": "수평선, 지평선"
+        },
+        {
+            "word": "horizontal",
+            "meaning": "수평의"
+        },
+        {
+            "word": "vertical",
+            "meaning": "수직의"
+        },
+        {
             "word": "shore",
             "meaning": "해안, 물이 닿는 곳"
+        },
+        {
+            "word": "seashore",
+            "meaning": "해안가"
+        },
+        {
+            "word": "lakeshore",
+            "meaning": "호숫가"
         },
         {
             "word": "shiver",
@@ -39,8 +79,24 @@
             "meaning": "떨다"
         },
         {
+            "word": "shudder",
+            "meaning": "떨다"
+        },
+        {
+            "word": "quiver",
+            "meaning": "떨다"
+        },
+        {
+            "word": "grip",
+            "meaning": "잡다"
+        },
+        {
             "word": "grab",
             "meaning": "잡다"
+        },
+        {
+            "word": "grasp",
+            "meaning": "잡다, 이해하다"
         },
         {
             "word": "seize",
@@ -51,32 +107,300 @@
             "meaning": "평온한"
         },
         {
+            "word": "serene",
+            "meaning": "평온한"
+        },
+        {
+            "word": "contented",
+            "meaning": "만족한"
+        },
+        {
             "word": "content",
             "meaning": "만족한"
+        },
+        {
+            "word": "satisfied",
+            "meaning": "만족한"
+        },
+        {
+            "word": "pleased",
+            "meaning": "만족한"
+        },
+        {
+            "word": "fulfilled",
+            "meaning": "만족한"
+        },
+        {
+            "word": "gratified",
+            "meaning": "만족한"
+        },
+        {
+            "word": "dissatisfied",
+            "meaning": "불만족스러운"
+        },
+        {
+            "word": "discontented",
+            "meaning": "불만스러운"
         },
         {
             "word": "sibling",
             "meaning": "형제자매"
         },
         {
+            "word": "rivalry",
+            "meaning": "경쟁"
+        },
+        {
             "word": "competitiveness",
-            "meaning": "경쟁력"
+            "meaning": "경쟁"
+        },
+        {
+            "word": "competition",
+            "meaning": "경쟁"
+        },
+        {
+            "word": "contention",
+            "meaning": "경쟁"
+        },
+        {
+            "word": "strong-willed",
+            "meaning": "의지가 강한"
+        },
+        {
+            "word": "strong-minded",
+            "meaning": "의지가 강한"
+        },
+        {
+            "word": "resolute",
+            "meaning": "의지가 강한"
         },
         {
             "word": "determined",
             "meaning": "의지가 강한"
         },
         {
-            "word": "commitment",
-            "meaning": "약속, 헌신"
+            "word": "a man of iron",
+            "meaning": "의지가 강한 사람"
         },
         {
-            "word": "be prone to",
-            "meaning": "~하기 쉽다"
+            "word": "competitive",
+            "meaning": "경쟁적인"
+        },
+        {
+            "word": "competent",
+            "meaning": "유능한"
+        },
+        {
+            "word": "vitally",
+            "meaning": "매우, 극도로"
+        },
+        {
+            "word": "extremely",
+            "meaning": "매우, 극도로"
         },
         {
             "word": "intensely",
             "meaning": "매우, 극도로"
+        },
+        {
+            "word": "routinely",
+            "meaning": "일상적으로"
+        },
+        {
+            "word": "peer",
+            "meaning": "또래, 친구"
+        },
+        {
+            "word": "fellow",
+            "meaning": "또래, 친구"
+        },
+        {
+            "word": "sensitive",
+            "meaning": "민감한"
+        },
+        {
+            "word": "susceptible",
+            "meaning": "민감한"
+        },
+        {
+            "word": "sensitiveness",
+            "meaning": "민감성"
+        },
+        {
+            "word": "sensible",
+            "meaning": "합리적인, 현명한"
+        },
+        {
+            "word": "sensibility",
+            "meaning": "감수성, 예민함"
+        },
+        {
+            "word": "sensitivity",
+            "meaning": "감수성, 예민함"
+        },
+        {
+            "word": "comparative",
+            "meaning": "비교하는, 비교의"
+        },
+        {
+            "word": "violate",
+            "meaning": "위반하다"
+        },
+        {
+            "word": "infringe",
+            "meaning": "위반하다"
+        },
+        {
+            "word": "fable",
+            "meaning": "우화"
+        },
+        {
+            "word": "fairy tale",
+            "meaning": "동화"
+        },
+        {
+            "word": "meditation",
+            "meaning": "명상"
+        },
+        {
+            "word": "meditate",
+            "meaning": "명상하다, 숙고하다"
+        },
+        {
+            "word": "mediate",
+            "meaning": "중재하다, 매개역할하다"
+        },
+        {
+            "word": "pole",
+            "meaning": "기둥"
+        },
+        {
+            "word": "pillar",
+            "meaning": "기둥"
+        },
+        {
+            "word": "polar",
+            "meaning": "북극(남극)의, 양극의"
+        },
+        {
+            "word": "session",
+            "meaning": "시간"
+        },
+        {
+            "word": "ritual",
+            "meaning": "의례, 의식절차"
+        },
+        {
+            "word": "rite",
+            "meaning": "의례, 의식"
+        },
+        {
+            "word": "crisis",
+            "meaning": "위기"
+        },
+        {
+            "word": "illustrate",
+            "meaning": "보여주다, 예증하다"
+        },
+        {
+            "word": "demonstrate",
+            "meaning": "보여주다, 예증하다"
+        },
+        {
+            "word": "explicate",
+            "meaning": "보여주다, 예증하다"
+        },
+        {
+            "word": "be supposed to",
+            "meaning": "해야한다, 예정되어있다"
+        },
+        {
+            "word": "possibly",
+            "meaning": "가능하다면, 혹시, 아마"
+        },
+        {
+            "word": "unnecessarily",
+            "meaning": "불필요하게, 쓸데없이"
+        },
+        {
+            "word": "necessarily",
+            "meaning": "반드시, 필연적으로"
+        },
+        {
+            "word": "not necessarily",
+            "meaning": "반드시 ~것은 아닌"
+        },
+        {
+            "word": "resistant",
+            "meaning": "저항하는"
+        },
+        {
+            "word": "invisible",
+            "meaning": "보이지 않는"
+        },
+        {
+            "word": "unseen",
+            "meaning": "보이지 않는"
+        },
+        {
+            "word": "veiled",
+            "meaning": "가려진, 보이지 않는"
+        },
+        {
+            "word": "inaudible",
+            "meaning": "들리지 않는"
+        },
+        {
+            "word": "inedible",
+            "meaning": "먹을 수 없는"
+        },
+        {
+            "word": "when it comes to",
+            "meaning": "~에 관해 말하자면"
+        },
+        {
+            "word": "stick to",
+            "meaning": "지키다, 고수하다"
+        },
+        {
+            "word": "cling to",
+            "meaning": "지키다, 고수하다"
+        },
+        {
+            "word": "adhere to",
+            "meaning": "지키다, 고수하다"
+        },
+        {
+            "word": "chances are",
+            "meaning": "아마"
+        },
+        {
+            "word": "meet",
+            "meaning": "수행하다, 만족시키다"
+        },
+        {
+            "word": "commitment",
+            "meaning": "약속, 헌신"
+        },
+        {
+            "word": "sit-up",
+            "meaning": "윗몸 일으키기"
+        },
+        {
+            "word": "be likely to",
+            "meaning": "~할 가능성이 있다"
+        },
+        {
+            "word": "be prone to",
+            "meaning": "~할 가능성이 있다"
+        },
+        {
+            "word": "be apt to",
+            "meaning": "~할 가능성이 있다"
+        },
+        {
+            "word": "be liable to",
+            "meaning": "~할 가능성이 있다"
         }
     ]
 }

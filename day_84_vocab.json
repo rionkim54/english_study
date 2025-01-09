@@ -2,81 +2,104 @@
     "englishText": "Day 84 Vocabulary",
     "koreaText": "84일차 단어장",
     "words": [
-        {
-            "word": "upset",
-            "meaning": "화나게 하다"
-        },
-        {
-            "word": "calm ~ down",
-            "meaning": "진정시키다"
-        },
-        {
-            "word": "settle",
-            "meaning": "진정시키다"
-        },
-        {
-            "word": "relax",
-            "meaning": "진정시키다"
-        },
-        {
-            "word": "soothe",
-            "meaning": "진정시키다"
-        },
-        {
-            "word": "act as",
-            "meaning": "작용하다"
-        },
-        {
-            "word": "distraction",
-            "meaning": "주의를 돌리는 것"
-        },
-        {
-            "word": "shift",
-            "meaning": "옮기다, 이동시키다"
-        },
-        {
-            "word": "transfer",
-            "meaning": "옮기다"
-        },
-        {
-            "word": "treat",
-            "meaning": "특별히 먹거리"
-        },
-        {
-            "word": "effective",
-            "meaning": "효과적인"
-        },
-        {
-            "word": "restrict",
-            "meaning": "통제하다, 제한하다"
-        },
-        {
-            "word": "possibility",
-            "meaning": "가능성"
-        },
-        {
-            "word": "likelihood",
-            "meaning": "가능성, 가망"
-        },
-        {
-            "word": "probability",
-            "meaning": "가능성, 가망"
-        },
-        {
-            "word": "approval",
-            "meaning": "허락, 허가"
-        },
-        {
-            "word": "assent",
-            "meaning": "허락, 허가"
-        },
-        {
-            "word": "label",
-            "meaning": "음반사"
-        },
-        {
-            "word": "connect",
-            "meaning": "연결, 관계"
-        }
+        {"word": "upset", "meaning": "화나게 하다"},
+        {"word": "calm ~ down", "meaning": "진정시키다"},
+        {"word": "settle", "meaning": "진정시키다"},
+        {"word": "relax", "meaning": "진정시키다"},
+        {"word": "soothe", "meaning": "진정시키다"},
+        {"word": "act as", "meaning": "작용하다"},
+        {"word": "distraction", "meaning": "주의를 돌리는 것"},
+        {"word": "shift", "meaning": "옮기다, 이동시키다"},
+        {"word": "transfer", "meaning": "옮기다"},
+        {"word": "treat", "meaning": "특별히 먹거리"},
+        {"word": "sweet", "meaning": "사탕, 단 것"},
+        {"word": "effective", "meaning": "효과적인"},
+        {"word": "effectual", "meaning": "효과적인"},
+        {"word": "manage", "meaning": "통제하다, 관리하다"},
+        {"word": "regulate", "meaning": "통제하다"},
+        {"word": "restrict", "meaning": "통제하다"},
+        {"word": "annoyed", "meaning": "짜증 난"},
+        {"word": "irritated", "meaning": "짜증 난"},
+        {"word": "go through", "meaning": "겪다"},
+        {"word": "experience", "meaning": "겪다"},
+        {"word": "suffer", "meaning": "겪다"},
+        {"word": "anxious", "meaning": "불안한"},
+        {"word": "uneasy", "meaning": "불안한"},
+        {"word": "bored", "meaning": "지루한"},
+        {"word": "tedious", "meaning": "지루한"},
+        {"word": "monotonous", "meaning": "지루한"},
+        {"word": "turn to", "meaning": "~에 의존하다"},
+        {"word": "rely on", "meaning": "~에 의존하다"},
+        {"word": "ancestor", "meaning": "조상"},
+        {"word": "forebears", "meaning": "조상"},
+        {"word": "water-dwelling", "meaning": "물에 사는"},
+        {"word": "relative", "meaning": "친척"},
+        {"word": "shelter", "meaning": "살 곳, 쉼터, 은신처"},
+        {"word": "tie", "meaning": "인연, 유대관계"},
+        {"word": "link", "meaning": "인연, 유대관계"},
+        {"word": "properly", "meaning": "제대로"},
+        {"word": "moist", "meaning": "촉촉한"},
+        {"word": "humid", "meaning": "습도가 높은"},
+        {"word": "damp", "meaning": "축축한, 눅눅한"},
+        {"word": "take a dip", "meaning": "(물에) 잠깐 담그다"},
+        {"word": "every now and then", "meaning": "이따금"},
+        {"word": "occasionally", "meaning": "이따금"},
+        {"word": "keep from", "meaning": "~을 막다"},
+        {"word": "prevent", "meaning": "막다"},
+        {"word": "prohibit", "meaning": "막다"},
+        {"word": "ban", "meaning": "막다"},
+        {"word": "hinder", "meaning": "막다"},
+        {"word": "lay", "meaning": "(알을) 낳다"},
+        {"word": "metamorphosis", "meaning": "탈바꿈"},
+        {"word": "land-dwelling", "meaning": "육지에 사는"},
+        {"word": "distinguish", "meaning": "구별하다"},
+        {"word": "differentiate", "meaning": "구별하다"},
+        {"word": "tell apart", "meaning": "구별하다"},
+        {"word": "discriminate", "meaning": "구별하다"},
+        {"word": "discern", "meaning": "구별하다"},
+        {"word": "legally", "meaning": "법적으로"},
+        {"word": "actually", "meaning": "실제로, 사실"},
+        {"word": "in reality", "meaning": "실제로"},
+        {"word": "in effect", "meaning": "실제로"},
+        {"word": "physically", "meaning": "물리적으로"},
+        {"word": "incapable", "meaning": "할 수 없는"},
+        {"word": "incompetent", "meaning": "할 수 없는, 무능한"},
+        {"word": "restriction", "meaning": "제약"},
+        {"word": "constraint", "meaning": "제한"},
+        {"word": "restraint", "meaning": "제한"},
+        {"word": "restrain", "meaning": "저지하다"},
+        {"word": "possibility", "meaning": "가능성"},
+        {"word": "likelihood", "meaning": "가능성, 가망"},
+        {"word": "probability", "meaning": "가능성, 가망"},
+        {"word": "prospect", "meaning": "가능성, 가망"},
+        {"word": "odds", "meaning": "가능성"},
+        {"word": "chance", "meaning": "가능성"},
+        {"word": "means", "meaning": "수단"},
+        {"word": "meaning", "meaning": "의미"},
+        {"word": "gatekeeper", "meaning": "정보관리(통제)자"},
+        {"word": "let in", "meaning": "~을 들어내다"},
+        {"word": "admit", "meaning": "~을 들어내다"},
+        {"word": "label", "meaning": "음반사"},
+        {"word": "worthy", "meaning": "가치있는"},
+        {"word": "spotlight", "meaning": "주목"},
+        {"word": "attention", "meaning": "주목"},
+        {"word": "ask for", "meaning": "요청하다"},
+        {"word": "request", "meaning": "요청하다"},
+        {"word": "invite", "meaning": "요청하다"},
+        {"word": "claim", "meaning": "요청하다"},
+        {"word": "permission", "meaning": "허락, 허가"},
+        {"word": "authorization", "meaning": "허락, 허가"},
+        {"word": "approval", "meaning": "허락, 허가"},
+        {"word": "assent", "meaning": "허락, 허가"},
+        {"word": "fanbase", "meaning": "팬층"},
+        {"word": "no longer", "meaning": "더 이상 ~않다"},
+        {"word": "rising", "meaning": "증가하는"},
+        {"word": "growing", "meaning": "증가하는"},
+        {"word": "increasing", "meaning": "증가하는"},
+        {"word": "concern", "meaning": "우려, 염려"},
+        {"word": "unease", "meaning": "우려, 염려"},
+        {"word": "anxiety", "meaning": "우려, 염려"},
+        {"word": "exposure", "meaning": "노출, 직면"},
+        {"word": "connect", "meaning": "연결, 관계"}
     ]
 }
