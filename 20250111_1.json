@@ -1,0 +1,650 @@
+{
+    "englishText": "Education, at its best, teaches more than just knowledge. It teaches critical thinking: the ability to stop and think before acting, to avoid succumbing to emotional pressures. This is not thought control. It is the very reverse: mental liberation. Even the most advanced intellectual will be imperfect at this skill. But even imperfect possession of it frees a person from the burden of being 'stimulus-driven', constantly reacting to the immediate environment, the brightest colours or loudest sounds. Being driven by heuristic responses, living by instinct and emotion all the time, is a very easy way to live, in many ways: thought is effortful, especially for the inexperienced. But emotions are also exhausting, and short-term reactions may not, in the long term, be the most beneficial for health and survival. Just as we reach for burgers for the sake of convenience, storing up the arterial fat which may one day kill us, so our reliance on feelings can do us great harm.",
+    "koreaText": "교육은 그 자체로 단순한 지식을 가르치는 것 이상입니다. 그것은 행동하기 전에 멈추고 생각하는 능력, 감정적 압력에 굴복하지 않는 비판적 사고를 가르칩니다. 이것은 사상 통제가 아닙니다. 그것은 정반대, 정신적 해방입니다. 가장 진보된 지식인조차도 이 기술에서 완벽하지 않을 것입니다. 그러나 그것을 불완전하게라도 소유하는 것은 사람을 '자극 중심'으로 살아가는 부담에서 해방시킵니다. 즉각적인 환경, 가장 밝은 색상 또는 가장 큰 소리에 지속적으로 반응하는 것이죠. 항상 본능과 감정에 따라 살아가는 것은 여러모로 매우 쉬운 삶의 방식입니다. 특히 미숙한 사람들에게는 사고는 노력이 필요합니다. 그러나 감정은 또한 피로를 유발하며, 단기적인 반응이 장기적으로 건강과 생존에 가장 유익하지 않을 수 있습니다. 우리가 편리함을 위해 햄버거를 선택하면서 언젠가 우리를 죽일 수 있는 동맥 지방을 축적하는 것처럼, 감정에 의존하는 것도 큰 해를 끼칠 수 있습니다.",
+    "words": [
+        {
+            "word": "education",
+            "meaning": ""
+        },
+        {
+            "word": "at",
+            "meaning": ""
+        },
+        {
+            "word": "its",
+            "meaning": ""
+        },
+        {
+            "word": "best",
+            "meaning": ""
+        },
+        {
+            "word": "teaches",
+            "meaning": ""
+        },
+        {
+            "word": "more",
+            "meaning": ""
+        },
+        {
+            "word": "than",
+            "meaning": ""
+        },
+        {
+            "word": "just",
+            "meaning": ""
+        },
+        {
+            "word": "knowledge",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "teaches",
+            "meaning": ""
+        },
+        {
+            "word": "critical",
+            "meaning": ""
+        },
+        {
+            "word": "thinking:",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "ability",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "stop",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "think",
+            "meaning": ""
+        },
+        {
+            "word": "before",
+            "meaning": ""
+        },
+        {
+            "word": "acting",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "avoid",
+            "meaning": ""
+        },
+        {
+            "word": "succumbing",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "emotional",
+            "meaning": ""
+        },
+        {
+            "word": "pressures",
+            "meaning": ""
+        },
+        {
+            "word": "this",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "not",
+            "meaning": ""
+        },
+        {
+            "word": "thought",
+            "meaning": ""
+        },
+        {
+            "word": "control",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "very",
+            "meaning": ""
+        },
+        {
+            "word": "reverse:",
+            "meaning": ""
+        },
+        {
+            "word": "mental",
+            "meaning": ""
+        },
+        {
+            "word": "liberation",
+            "meaning": ""
+        },
+        {
+            "word": "even",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "most",
+            "meaning": ""
+        },
+        {
+            "word": "advanced",
+            "meaning": ""
+        },
+        {
+            "word": "intellectual",
+            "meaning": ""
+        },
+        {
+            "word": "will",
+            "meaning": ""
+        },
+        {
+            "word": "be",
+            "meaning": ""
+        },
+        {
+            "word": "imperfect",
+            "meaning": ""
+        },
+        {
+            "word": "at",
+            "meaning": ""
+        },
+        {
+            "word": "this",
+            "meaning": ""
+        },
+        {
+            "word": "skill",
+            "meaning": ""
+        },
+        {
+            "word": "but",
+            "meaning": ""
+        },
+        {
+            "word": "even",
+            "meaning": ""
+        },
+        {
+            "word": "imperfect",
+            "meaning": ""
+        },
+        {
+            "word": "possession",
+            "meaning": ""
+        },
+        {
+            "word": "of",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "frees",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "person",
+            "meaning": ""
+        },
+        {
+            "word": "from",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "burden",
+            "meaning": ""
+        },
+        {
+            "word": "of",
+            "meaning": ""
+        },
+        {
+            "word": "being",
+            "meaning": ""
+        },
+        {
+            "word": "‘stimulus-driven",
+            "meaning": ""
+        },
+        {
+            "word": "constantly",
+            "meaning": ""
+        },
+        {
+            "word": "reacting",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "immediate",
+            "meaning": ""
+        },
+        {
+            "word": "environment",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "brightest",
+            "meaning": ""
+        },
+        {
+            "word": "colours",
+            "meaning": ""
+        },
+        {
+            "word": "or",
+            "meaning": ""
+        },
+        {
+            "word": "loudest",
+            "meaning": ""
+        },
+        {
+            "word": "sounds",
+            "meaning": ""
+        },
+        {
+            "word": "being",
+            "meaning": ""
+        },
+        {
+            "word": "driven",
+            "meaning": ""
+        },
+        {
+            "word": "by",
+            "meaning": ""
+        },
+        {
+            "word": "heuristic",
+            "meaning": ""
+        },
+        {
+            "word": "responses",
+            "meaning": ""
+        },
+        {
+            "word": "living",
+            "meaning": ""
+        },
+        {
+            "word": "by",
+            "meaning": ""
+        },
+        {
+            "word": "instinct",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "emotion",
+            "meaning": ""
+        },
+        {
+            "word": "all",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "time",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "very",
+            "meaning": ""
+        },
+        {
+            "word": "easy",
+            "meaning": ""
+        },
+        {
+            "word": "way",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "live",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "many",
+            "meaning": ""
+        },
+        {
+            "word": "ways:",
+            "meaning": ""
+        },
+        {
+            "word": "thought",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "effortful",
+            "meaning": ""
+        },
+        {
+            "word": "especially",
+            "meaning": ""
+        },
+        {
+            "word": "for",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "inexperienced",
+            "meaning": ""
+        },
+        {
+            "word": "but",
+            "meaning": ""
+        },
+        {
+            "word": "emotions",
+            "meaning": ""
+        },
+        {
+            "word": "are",
+            "meaning": ""
+        },
+        {
+            "word": "also",
+            "meaning": ""
+        },
+        {
+            "word": "exhausting",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "short-term",
+            "meaning": ""
+        },
+        {
+            "word": "reactions",
+            "meaning": ""
+        },
+        {
+            "word": "may",
+            "meaning": ""
+        },
+        {
+            "word": "not",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "long",
+            "meaning": ""
+        },
+        {
+            "word": "term",
+            "meaning": ""
+        },
+        {
+            "word": "be",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "most",
+            "meaning": ""
+        },
+        {
+            "word": "beneficial",
+            "meaning": ""
+        },
+        {
+            "word": "for",
+            "meaning": ""
+        },
+        {
+            "word": "health",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "survival",
+            "meaning": ""
+        },
+        {
+            "word": "just",
+            "meaning": ""
+        },
+        {
+            "word": "as",
+            "meaning": ""
+        },
+        {
+            "word": "we",
+            "meaning": ""
+        },
+        {
+            "word": "reach",
+            "meaning": ""
+        },
+        {
+            "word": "for",
+            "meaning": ""
+        },
+        {
+            "word": "burgers",
+            "meaning": ""
+        },
+        {
+            "word": "for",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "sake",
+            "meaning": ""
+        },
+        {
+            "word": "of",
+            "meaning": ""
+        },
+        {
+            "word": "convenience",
+            "meaning": ""
+        },
+        {
+            "word": "storing",
+            "meaning": ""
+        },
+        {
+            "word": "up",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "arterial",
+            "meaning": ""
+        },
+        {
+            "word": "fat",
+            "meaning": ""
+        },
+        {
+            "word": "which",
+            "meaning": ""
+        },
+        {
+            "word": "may",
+            "meaning": ""
+        },
+        {
+            "word": "one",
+            "meaning": ""
+        },
+        {
+            "word": "day",
+            "meaning": ""
+        },
+        {
+            "word": "kill",
+            "meaning": ""
+        },
+        {
+            "word": "us",
+            "meaning": ""
+        },
+        {
+            "word": "so",
+            "meaning": ""
+        },
+        {
+            "word": "our",
+            "meaning": ""
+        },
+        {
+            "word": "reliance",
+            "meaning": ""
+        },
+        {
+            "word": "on",
+            "meaning": ""
+        },
+        {
+            "word": "feelings",
+            "meaning": ""
+        },
+        {
+            "word": "can",
+            "meaning": ""
+        },
+        {
+            "word": "do",
+            "meaning": ""
+        },
+        {
+            "word": "us",
+            "meaning": ""
+        },
+        {
+            "word": "great",
+            "meaning": ""
+        },
+        {
+            "word": "harm",
+            "meaning": ""
+        }
+    ]
+}
