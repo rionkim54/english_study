@@ -1,0 +1,930 @@
+{
+    "englishText": "John Park revealed why he did not invite Yoo Jae-suk to his wedding. On the January 11th broadcast of MBC's 'Hangout with Yoo' (hereafter referred to as 'Hangout'), a segment titled 'Christmas in the 13th Month' was aired. Guest Ailee, who is set to marry Choi Si-hoon from 'Single's Inferno 1' this coming April, received many congratulations. Ailee said, 'We released an official wedding statement. It’s my first time seeing someone use a nickname in an official SNS statement,' and shared that the nickname is 'Princess Ye-jin,' adding a sweet touch. Amid the sweet anecdotes, Yoo Jae-suk asked, 'Why does John Park nod along while listening to Ailee’s story?' John Park replied with a smile of a senior in marriage, saying, 'It’s a happy time.' Yoo Jae-suk then said, 'I didn’t even know John Park got married. I heard he has a child too,' mentioning John Park's secretive wedding. John Park explained, 'It’s not that I didn’t want to invite people, but I thought it might be burdensome. So we kept it small.' Yoo Jae-suk expressed regret, saying, 'Why would it be a burden? If John Park invites me, I should go!' When Yoo Jae-suk asked if it was a small wedding, John Park replied, 'Not exactly small—more like a medium wedding,' making everyone laugh. Meanwhile, John Park married a non-celebrity in June 2022 and welcomed a daughter in September 2023.",
+    "koreaText": "존박이 결혼식에 유재석을 초대하지 않은 이유를 밝혔다. 11일 방송된 MBC '놀면 뭐하니?'(이하 '놀뭐')는 13월의 크리스마스 편으로 꾸며졌다. 이날 출연한 에일리는 오는 4월 '솔로지옥1' 출신 최시훈과 결혼을 앞두고 있어 많은 축하를 받았다. 에일리는 '저희가 결혼 입장문을 냈었다. SNS 공식 입장문에 애칭을 쓰는 사람 처음 봤다'라며, 애칭은 '예진 공주'라고 전해 달달함을 자아냈다. 달달한 일화가 전해지던 가운데, 유재석이 '존박은 왜 에일리 얘기를 들으면서 고개를 끄덕이냐'고 묻자 존박은 '좋을 때다'라며 결혼 선배의 흐뭇한 미소를 지었다. 그러자 유재석은 '나는 존박 결혼한 거 몰랐다'며 '애기도 있더라'고 그의 극비리(?) 결혼을 언급했다. 이에 존박은 '굳이 뭐, 물론 (결혼이) 좋은 일이지만 결혼식 초대하면 부담이 되실까봐 조그맣게 했다'며 소박하게 결혼식을 치른 이유를 이야기했다. 이에 유재석은 '왜 부담이 되냐, 존박이 초대하면 가야지'라며 못내 아쉬움을 드러내기도. '스몰 웨딩을 했냐'는 유재석에게 존박은 '(스몰은 아니고) 미디움 웨딩'이라고 받아쳐 웃음을 자아냈다. 한편 존박은 지난 2022년 6월 비연예인과 결혼한 뒤 2023년 9월 딸을 품에 안았다.",
+    "words": [
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "revealed",
+            "meaning": ""
+        },
+        {
+            "word": "why",
+            "meaning": ""
+        },
+        {
+            "word": "he",
+            "meaning": ""
+        },
+        {
+            "word": "did",
+            "meaning": ""
+        },
+        {
+            "word": "not",
+            "meaning": ""
+        },
+        {
+            "word": "invite",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "Jae-suk",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "his",
+            "meaning": ""
+        },
+        {
+            "word": "wedding",
+            "meaning": ""
+        },
+        {
+            "word": "On",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "January",
+            "meaning": ""
+        },
+        {
+            "word": "11th",
+            "meaning": ""
+        },
+        {
+            "word": "broadcast",
+            "meaning": ""
+        },
+        {
+            "word": "of",
+            "meaning": ""
+        },
+        {
+            "word": "MBC's",
+            "meaning": ""
+        },
+        {
+            "word": "Hangout",
+            "meaning": ""
+        },
+        {
+            "word": "with",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "hereafter",
+            "meaning": ""
+        },
+        {
+            "word": "referred",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "as",
+            "meaning": ""
+        },
+        {
+            "word": "Hangout",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "segment",
+            "meaning": ""
+        },
+        {
+            "word": "titled",
+            "meaning": ""
+        },
+        {
+            "word": "Christmas",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "13th",
+            "meaning": ""
+        },
+        {
+            "word": "Month",
+            "meaning": ""
+        },
+        {
+            "word": "was",
+            "meaning": ""
+        },
+        {
+            "word": "aired",
+            "meaning": ""
+        },
+        {
+            "word": "Guest",
+            "meaning": ""
+        },
+        {
+            "word": "Ailee",
+            "meaning": ""
+        },
+        {
+            "word": "who",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "set",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "marry",
+            "meaning": ""
+        },
+        {
+            "word": "Choi",
+            "meaning": ""
+        },
+        {
+            "word": "Si-hoon",
+            "meaning": ""
+        },
+        {
+            "word": "from",
+            "meaning": ""
+        },
+        {
+            "word": "Single's",
+            "meaning": ""
+        },
+        {
+            "word": "Inferno",
+            "meaning": ""
+        },
+        {
+            "word": "1",
+            "meaning": ""
+        },
+        {
+            "word": "this",
+            "meaning": ""
+        },
+        {
+            "word": "coming",
+            "meaning": ""
+        },
+        {
+            "word": "April",
+            "meaning": ""
+        },
+        {
+            "word": "received",
+            "meaning": ""
+        },
+        {
+            "word": "many",
+            "meaning": ""
+        },
+        {
+            "word": "congratulations",
+            "meaning": ""
+        },
+        {
+            "word": "Ailee",
+            "meaning": ""
+        },
+        {
+            "word": "said",
+            "meaning": ""
+        },
+        {
+            "word": "We",
+            "meaning": ""
+        },
+        {
+            "word": "released",
+            "meaning": ""
+        },
+        {
+            "word": "an",
+            "meaning": ""
+        },
+        {
+            "word": "official",
+            "meaning": ""
+        },
+        {
+            "word": "wedding",
+            "meaning": ""
+        },
+        {
+            "word": "statement",
+            "meaning": ""
+        },
+        {
+            "word": "It’s",
+            "meaning": ""
+        },
+        {
+            "word": "my",
+            "meaning": ""
+        },
+        {
+            "word": "first",
+            "meaning": ""
+        },
+        {
+            "word": "time",
+            "meaning": ""
+        },
+        {
+            "word": "seeing",
+            "meaning": ""
+        },
+        {
+            "word": "someone",
+            "meaning": ""
+        },
+        {
+            "word": "use",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "nickname",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "an",
+            "meaning": ""
+        },
+        {
+            "word": "official",
+            "meaning": ""
+        },
+        {
+            "word": "SNS",
+            "meaning": ""
+        },
+        {
+            "word": "statement",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "shared",
+            "meaning": ""
+        },
+        {
+            "word": "that",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "nickname",
+            "meaning": ""
+        },
+        {
+            "word": "is",
+            "meaning": ""
+        },
+        {
+            "word": "Princess",
+            "meaning": ""
+        },
+        {
+            "word": "Ye-jin",
+            "meaning": ""
+        },
+        {
+            "word": "adding",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "sweet",
+            "meaning": ""
+        },
+        {
+            "word": "touch",
+            "meaning": ""
+        },
+        {
+            "word": "Amid",
+            "meaning": ""
+        },
+        {
+            "word": "the",
+            "meaning": ""
+        },
+        {
+            "word": "sweet",
+            "meaning": ""
+        },
+        {
+            "word": "anecdotes",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "Jae-suk",
+            "meaning": ""
+        },
+        {
+            "word": "asked",
+            "meaning": ""
+        },
+        {
+            "word": "Why",
+            "meaning": ""
+        },
+        {
+            "word": "does",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "nod",
+            "meaning": ""
+        },
+        {
+            "word": "along",
+            "meaning": ""
+        },
+        {
+            "word": "while",
+            "meaning": ""
+        },
+        {
+            "word": "listening",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "Ailee’s",
+            "meaning": ""
+        },
+        {
+            "word": "story?",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "replied",
+            "meaning": ""
+        },
+        {
+            "word": "with",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "smile",
+            "meaning": ""
+        },
+        {
+            "word": "of",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "senior",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "marriage",
+            "meaning": ""
+        },
+        {
+            "word": "saying",
+            "meaning": ""
+        },
+        {
+            "word": "It’s",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "happy",
+            "meaning": ""
+        },
+        {
+            "word": "time",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "Jae-suk",
+            "meaning": ""
+        },
+        {
+            "word": "then",
+            "meaning": ""
+        },
+        {
+            "word": "said",
+            "meaning": ""
+        },
+        {
+            "word": "I",
+            "meaning": ""
+        },
+        {
+            "word": "didn’t",
+            "meaning": ""
+        },
+        {
+            "word": "even",
+            "meaning": ""
+        },
+        {
+            "word": "know",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "got",
+            "meaning": ""
+        },
+        {
+            "word": "married",
+            "meaning": ""
+        },
+        {
+            "word": "I",
+            "meaning": ""
+        },
+        {
+            "word": "heard",
+            "meaning": ""
+        },
+        {
+            "word": "he",
+            "meaning": ""
+        },
+        {
+            "word": "has",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "child",
+            "meaning": ""
+        },
+        {
+            "word": "too",
+            "meaning": ""
+        },
+        {
+            "word": "mentioning",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park's",
+            "meaning": ""
+        },
+        {
+            "word": "secretive",
+            "meaning": ""
+        },
+        {
+            "word": "wedding",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "explained",
+            "meaning": ""
+        },
+        {
+            "word": "It’s",
+            "meaning": ""
+        },
+        {
+            "word": "not",
+            "meaning": ""
+        },
+        {
+            "word": "that",
+            "meaning": ""
+        },
+        {
+            "word": "I",
+            "meaning": ""
+        },
+        {
+            "word": "didn’t",
+            "meaning": ""
+        },
+        {
+            "word": "want",
+            "meaning": ""
+        },
+        {
+            "word": "to",
+            "meaning": ""
+        },
+        {
+            "word": "invite",
+            "meaning": ""
+        },
+        {
+            "word": "people",
+            "meaning": ""
+        },
+        {
+            "word": "but",
+            "meaning": ""
+        },
+        {
+            "word": "I",
+            "meaning": ""
+        },
+        {
+            "word": "thought",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "might",
+            "meaning": ""
+        },
+        {
+            "word": "be",
+            "meaning": ""
+        },
+        {
+            "word": "burdensome",
+            "meaning": ""
+        },
+        {
+            "word": "So",
+            "meaning": ""
+        },
+        {
+            "word": "we",
+            "meaning": ""
+        },
+        {
+            "word": "kept",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "small",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "Jae-suk",
+            "meaning": ""
+        },
+        {
+            "word": "expressed",
+            "meaning": ""
+        },
+        {
+            "word": "regret",
+            "meaning": ""
+        },
+        {
+            "word": "saying",
+            "meaning": ""
+        },
+        {
+            "word": "Why",
+            "meaning": ""
+        },
+        {
+            "word": "would",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "be",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "burden?",
+            "meaning": ""
+        },
+        {
+            "word": "If",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "invites",
+            "meaning": ""
+        },
+        {
+            "word": "me",
+            "meaning": ""
+        },
+        {
+            "word": "I",
+            "meaning": ""
+        },
+        {
+            "word": "should",
+            "meaning": ""
+        },
+        {
+            "word": "go!",
+            "meaning": ""
+        },
+        {
+            "word": "When",
+            "meaning": ""
+        },
+        {
+            "word": "Yoo",
+            "meaning": ""
+        },
+        {
+            "word": "Jae-suk",
+            "meaning": ""
+        },
+        {
+            "word": "asked",
+            "meaning": ""
+        },
+        {
+            "word": "if",
+            "meaning": ""
+        },
+        {
+            "word": "it",
+            "meaning": ""
+        },
+        {
+            "word": "was",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "small",
+            "meaning": ""
+        },
+        {
+            "word": "wedding",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "replied",
+            "meaning": ""
+        },
+        {
+            "word": "Not",
+            "meaning": ""
+        },
+        {
+            "word": "exactly",
+            "meaning": ""
+        },
+        {
+            "word": "small—more",
+            "meaning": ""
+        },
+        {
+            "word": "like",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "medium",
+            "meaning": ""
+        },
+        {
+            "word": "wedding",
+            "meaning": ""
+        },
+        {
+            "word": "making",
+            "meaning": ""
+        },
+        {
+            "word": "everyone",
+            "meaning": ""
+        },
+        {
+            "word": "laugh",
+            "meaning": ""
+        },
+        {
+            "word": "Meanwhile",
+            "meaning": ""
+        },
+        {
+            "word": "John",
+            "meaning": ""
+        },
+        {
+            "word": "Park",
+            "meaning": ""
+        },
+        {
+            "word": "married",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "non-celebrity",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "June",
+            "meaning": ""
+        },
+        {
+            "word": "2022",
+            "meaning": ""
+        },
+        {
+            "word": "and",
+            "meaning": ""
+        },
+        {
+            "word": "welcomed",
+            "meaning": ""
+        },
+        {
+            "word": "a",
+            "meaning": ""
+        },
+        {
+            "word": "daughter",
+            "meaning": ""
+        },
+        {
+            "word": "in",
+            "meaning": ""
+        },
+        {
+            "word": "September",
+            "meaning": ""
+        },
+        {
+            "word": "2023",
+            "meaning": ""
+        }
+    ]
+}
