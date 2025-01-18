@@ -1,0 +1,1071 @@
+{
+    "englishText" : "I've been staring at the edge of the water, 푸른 바다 멀리 끝자락까지 나는 바라보았어. Long as I can remember, never really knowing why, 내가 기억하는한, 내가 왜 그랬는지 모르겠어. I wish I could be the perfect daughter, 내가 왜 정말 착한 딸이 되길 원했는지. But I come back to the water, no matter how hard I try, 내가 아무리 열심히 노력을 해도 난 이렇게 바닷가에 또 서있어. Every turn I take, every trail I track, 이리저리 헤메이고, 발자국을 따라가고. Every path I make, every road leads back, 내가 만든 모든길, 모든 길이. To the place I know where I cannot go, 내가 아는 그 곳으로 날 이끌어, 내가 갈 수 없는곳. Where I long to be, 내가 아무리 원해도. See the line where the sky meets the sea? It calls me, 하늘과 바다가 만나는 저 선이 보여? 날 부르고 있어. And no one knows, how far it goes, 그게 얼마나 멀리 있는지 아무도 몰라. If the wind in my sail on the sea stays behind me, 만약 바다의 바람이 내 뒤에 머물러준다면. One day I'll know, 언젠가 난 알게될거야. If I go there's just no telling how far I'll go, 말할 수도 없을만큼 내가 멀리 가게 될 것을. I know everybody on this island seems so happy, on this island, 이 섬모두가 행복해 보인다는것을 알아. Everything is by design, 모든것은 정해져있어. I know everybody on this island has a role, on this island, 이 섬 모두가 각자의 역할을 가지고 있다는 것을 알아. So maybe I can roll with mine, 그래서 나도 아마 내 역할이 있을거야. I can lead with pride, I can make us strong, 자부심을 갖고 이끌고, 우리를 더 강하게 만들 수 있어. I'll be satisfied if I play along, 내가 사람들과 맞춰가면 난 만족할거야. But the voice inside sings a different song, 그러나 내 마음의 소리는 다른 노래를 부르고 있어. What is wrong with me?, 내가 왜 이러지? See the light as it shines on the sea? It's blinding, 바다위에 빛나는 저 빛이 보여? 너무 눈부셔. But no one knows, how deep it goes, 하지만 아무도 모를거야, 그게 얼마나 깊을지. And it seems like it's calling out to me, so come find me, 그리고 그게 날 부르고 있는것 처럼 보여, 와서 날 찾으라고. And let me know, 그리고 내한테 알려줘. What's beyond that line, will I cross that line?, 그 선 너머에 뭐가 있을지, 내가 그 선을 넘을 수 있을까? See the line where the sky meets the sea? It calls me, 하늘과 바다가 만나는 저 선이 보여? 날 부르고 있어. And no one knows, how far it goes, 그게 얼마나 멀리 있는지 아무도 몰라. If the wind in my sail on the sea stays behind me, 만약 바다의 바람이 내 뒤에 머물러준다면. One day I'll know, 언젠가 난 알게될거야. How far I'll go, 내가 얼마나 멀리 갈지.",
+    "koreaText" : "",
+    "words": [
+        {
+            "word": "I've",
+            "meaning": "나는 ~해왔다"
+        },
+        {
+            "word": "been",
+            "meaning": "있었다"
+        },
+        {
+            "word": "staring",
+            "meaning": "응시하다"
+        },
+        {
+            "word": "at",
+            "meaning": "~에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "edge",
+            "meaning": "끝, 가장자리"
+        },
+        {
+            "word": "of",
+            "meaning": "~의"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "water",
+            "meaning": "물, 바다"
+        },
+        {
+            "word": "long",
+            "meaning": "오랫동안, 길다"
+        },
+        {
+            "word": "as",
+            "meaning": "~만큼, ~로서"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "can",
+            "meaning": "~할 수 있다"
+        },
+        {
+            "word": "remember",
+            "meaning": "기억하다"
+        },
+        {
+            "word": "never",
+            "meaning": "결코 ~하지 않다"
+        },
+        {
+            "word": "really",
+            "meaning": "정말로"
+        },
+        {
+            "word": "knowing",
+            "meaning": "알다"
+        },
+        {
+            "word": "why",
+            "meaning": "왜"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "wish",
+            "meaning": "바라다"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "could",
+            "meaning": "~할 수 있었다 (can의 과거형)"
+        },
+        {
+            "word": "be",
+            "meaning": "~이다, 존재하다"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "perfect",
+            "meaning": "완벽한"
+        },
+        {
+            "word": "daughter",
+            "meaning": "딸"
+        },
+        {
+            "word": "But",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "come",
+            "meaning": "오다"
+        },
+        {
+            "word": "back",
+            "meaning": "돌아오다"
+        },
+        {
+            "word": "to",
+            "meaning": "~로"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "water",
+            "meaning": "물, 바다"
+        },
+        {
+            "word": "no",
+            "meaning": "아니요, ~없다"
+        },
+        {
+            "word": "matter",
+            "meaning": "문제, 중요하다"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게, 얼마나"
+        },
+        {
+            "word": "hard",
+            "meaning": "열심히, 어려운"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "try",
+            "meaning": "노력하다"
+        },
+        {
+            "word": "Every",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "turn",
+            "meaning": "돌다, 방향"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "take",
+            "meaning": "가지다, 가져가다"
+        },
+        {
+            "word": "every",
+            "meaning": "모든"
+        },
+        {
+            "word": "trail",
+            "meaning": "자국, 흔적"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "track",
+            "meaning": "길, 추적하다"
+        },
+        {
+            "word": "Every",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "path",
+            "meaning": "길, 경로"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "make",
+            "meaning": "만들다"
+        },
+        {
+            "word": "every",
+            "meaning": "모든"
+        },
+        {
+            "word": "road",
+            "meaning": "도로"
+        },
+        {
+            "word": "leads",
+            "meaning": "이끌다 (lead의 3인칭 단수형)"
+        },
+        {
+            "word": "back",
+            "meaning": "돌아오다"
+        },
+        {
+            "word": "To",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "place",
+            "meaning": "장소"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "where",
+            "meaning": "어디에"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "cannot",
+            "meaning": "~할 수 없다"
+        },
+        {
+            "word": "go",
+            "meaning": "가다"
+        },
+        {
+            "word": "Where",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "long",
+            "meaning": "오랫동안, 길다"
+        },
+        {
+            "word": "to",
+            "meaning": "~로"
+        },
+        {
+            "word": "be",
+            "meaning": "~이다, 존재하다"
+        },
+        {
+            "word": "See",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "line",
+            "meaning": "선"
+        },
+        {
+            "word": "where",
+            "meaning": "어디에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sky",
+            "meaning": "하늘"
+        },
+        {
+            "word": "meets",
+            "meaning": "만나다 (meet의 3인칭 단수형)"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sea",
+            "meaning": "바다"
+        },
+        {
+            "word": "It",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "calls",
+            "meaning": "부르다 (call의 3인칭 단수형)"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "And",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "no",
+            "meaning": "아니요, ~없다"
+        },
+        {
+            "word": "one",
+            "meaning": "하나"
+        },
+        {
+            "word": "knows",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게, 얼마나"
+        },
+        {
+            "word": "far",
+            "meaning": "멀리"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "goes",
+            "meaning": "가다 (go의 3인칭 단수형)"
+        },
+        {
+            "word": "If",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "wind",
+            "meaning": "바람"
+        },
+        {
+            "word": "in",
+            "meaning": "~안에"
+        },
+        {
+            "word": "my",
+            "meaning": "나의"
+        },
+        {
+            "word": "sail",
+            "meaning": "돛, 항해하다"
+        },
+        {
+            "word": "on",
+            "meaning": "~위에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sea",
+            "meaning": "바다"
+        },
+        {
+            "word": "stays",
+            "meaning": "머물다 (stay의 3인칭 단수형)"
+        },
+        {
+            "word": "behind",
+            "meaning": "뒤에"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "One",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "day",
+            "meaning": "날, 하루"
+        },
+        {
+            "word": "I'll",
+            "meaning": "나는 ~할 것이다 (I will의 축약형)"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "If",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "go",
+            "meaning": "가다"
+        },
+        {
+            "word": "there's",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "just",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "no",
+            "meaning": "아니요, ~없다"
+        },
+        {
+            "word": "telling",
+            "meaning": "말하다 (tell의 현재분사)"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게, 얼마나"
+        },
+        {
+            "word": "far",
+            "meaning": "멀리"
+        },
+        {
+            "word": "I'll",
+            "meaning": "나는 ~할 것이다 (I will의 축약형)"
+        },
+        {
+            "word": "go",
+            "meaning": "가다"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "everybody",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "on",
+            "meaning": "~위에"
+        },
+        {
+            "word": "this",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "island",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "seems",
+            "meaning": "~처럼 보이다 (seem의 3인칭 단수형)"
+        },
+        {
+            "word": "so",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "happy",
+            "meaning": "행복한"
+        },
+        {
+            "word": "On",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "this",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "island",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "everything",
+            "meaning": "모든 것"
+        },
+        {
+            "word": "is",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "by",
+            "meaning": "~옆에, ~에 의해"
+        },
+        {
+            "word": "design",
+            "meaning": "설계, 디자인"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "everybody",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "on",
+            "meaning": "~위에"
+        },
+        {
+            "word": "this",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "island",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "has",
+            "meaning": "~을 가지다 (have의 3인칭 단수형)"
+        },
+        {
+            "word": "a",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "role",
+            "meaning": "역할"
+        },
+        {
+            "word": "On",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "this",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "island",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "so",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "maybe",
+            "meaning": "아마도"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "can",
+            "meaning": "~할 수 있다"
+        },
+        {
+            "word": "roll",
+            "meaning": "구르다, 역할을 맡다"
+        },
+        {
+            "word": "with",
+            "meaning": "~와 함께"
+        },
+        {
+            "word": "mine",
+            "meaning": "나의 것"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "can",
+            "meaning": "~할 수 있다"
+        },
+        {
+            "word": "lead",
+            "meaning": "이끌다"
+        },
+        {
+            "word": "with",
+            "meaning": "~와 함께"
+        },
+        {
+            "word": "pride",
+            "meaning": "자부심"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "can",
+            "meaning": "~할 수 있다"
+        },
+        {
+            "word": "make",
+            "meaning": "만들다"
+        },
+        {
+            "word": "us",
+            "meaning": "우리"
+        },
+        {
+            "word": "strong",
+            "meaning": "강한"
+        },
+        {
+            "word": "I'll",
+            "meaning": "나는 ~할 것이다 (I will의 축약형)"
+        },
+        {
+            "word": "be",
+            "meaning": "~이다, 존재하다"
+        },
+        {
+            "word": "satisfied",
+            "meaning": "만족한"
+        },
+        {
+            "word": "if",
+            "meaning": "만약"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "play",
+            "meaning": "놀다, 연주하다"
+        },
+        {
+            "word": "along",
+            "meaning": "~을 따라"
+        },
+        {
+            "word": "But",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "voice",
+            "meaning": "목소리"
+        },
+        {
+            "word": "inside",
+            "meaning": "안에"
+        },
+        {
+            "word": "sings",
+            "meaning": "노래하다 (sing의 3인칭 단수형)"
+        },
+        {
+            "word": "a",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "different",
+            "meaning": "다른"
+        },
+        {
+            "word": "song",
+            "meaning": "노래"
+        },
+        {
+            "word": "What",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "is",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "wrong",
+            "meaning": "잘못된"
+        },
+        {
+            "word": "with",
+            "meaning": "~와 함께"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "See",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "light",
+            "meaning": "빛"
+        },
+        {
+            "word": "as",
+            "meaning": "~만큼, ~로서"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "shines",
+            "meaning": "빛나다 (shine의 3인칭 단수형)"
+        },
+        {
+            "word": "on",
+            "meaning": "~위에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sea",
+            "meaning": "바다"
+        },
+        {
+            "word": "It's",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "blinding",
+            "meaning": "눈부신"
+        },
+        {
+            "word": "But",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "no",
+            "meaning": "아니요, ~없다"
+        },
+        {
+            "word": "one",
+            "meaning": "하나"
+        },
+        {
+            "word": "knows",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게, 얼마나"
+        },
+        {
+            "word": "deep",
+            "meaning": "깊은"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "goes",
+            "meaning": "가다 (go의 3인칭 단수형)"
+        },
+        {
+            "word": "And",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "seems",
+            "meaning": "~처럼 보이다 (seem의 3인칭 단수형)"
+        },
+        {
+            "word": "like",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "it's",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "calling",
+            "meaning": "부르는 (call의 현재분사)"
+        },
+        {
+            "word": "out",
+            "meaning": "밖으로"
+        },
+        {
+            "word": "to",
+            "meaning": "~로"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "so",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "come",
+            "meaning": "오다"
+        },
+        {
+            "word": "find",
+            "meaning": "찾다"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "And",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "let",
+            "meaning": "허락하다"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "What's",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "beyond",
+            "meaning": "~을 넘어서"
+        },
+        {
+            "word": "that",
+            "meaning": "그, 저"
+        },
+        {
+            "word": "line",
+            "meaning": "선"
+        },
+        {
+            "word": "will",
+            "meaning": "~할 것이다"
+        },
+        {
+            "word": "I",
+            "meaning": "나"
+        },
+        {
+            "word": "cross",
+            "meaning": "건너다"
+        },
+        {
+            "word": "that",
+            "meaning": "그, 저"
+        },
+        {
+            "word": "line",
+            "meaning": "선"
+        },
+        {
+            "word": "See",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "line",
+            "meaning": "선"
+        },
+        {
+            "word": "where",
+            "meaning": "어디에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sky",
+            "meaning": "하늘"
+        },
+        {
+            "word": "meets",
+            "meaning": "만나다 (meet의 3인칭 단수형)"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sea",
+            "meaning": "바다"
+        },
+        {
+            "word": "It",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "calls",
+            "meaning": "부르다 (call의 3인칭 단수형)"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "And",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "no",
+            "meaning": "아니요, ~없다"
+        },
+        {
+            "word": "one",
+            "meaning": "하나"
+        },
+        {
+            "word": "knows",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "how",
+            "meaning": "어떻게, 얼마나"
+        },
+        {
+            "word": "far",
+            "meaning": "멀리"
+        },
+        {
+            "word": "it",
+            "meaning": "그것"
+        },
+        {
+            "word": "goes",
+            "meaning": "가다 (go의 3인칭 단수형)"
+        },
+        {
+            "word": "If",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "wind",
+            "meaning": "바람"
+        },
+        {
+            "word": "in",
+            "meaning": "~안에"
+        },
+        {
+            "word": "my",
+            "meaning": "나의"
+        },
+        {
+            "word": "sail",
+            "meaning": "돛, 항해하다"
+        },
+        {
+            "word": "on",
+            "meaning": "~위에"
+        },
+        {
+            "word": "the",
+            "meaning": "그"
+        },
+        {
+            "word": "sea",
+            "meaning": "바다"
+        },
+        {
+            "word": "stays",
+            "meaning": "머물다 (stay의 3인칭 단수형)"
+        },
+        {
+            "word": "behind",
+            "meaning": "뒤에"
+        },
+        {
+            "word": "me",
+            "meaning": "나를"
+        },
+        {
+            "word": "One",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "day",
+            "meaning": "날, 하루"
+        },
+        {
+            "word": "I'll",
+            "meaning": "나는 ~할 것이다 (I will의 축약형)"
+        },
+        {
+            "word": "know",
+            "meaning": "알다"
+        },
+        {
+            "word": "How",
+            "meaning": "번역 없음"
+        },
+        {
+            "word": "far",
+            "meaning": "멀리"
+        },
+        {
+            "word": "I'll",
+            "meaning": "나는 ~할 것이다 (I will의 축약형)"
+        },
+        {
+            "word": "go",
+            "meaning": "가다"
+        }
+    ]
+
+}
